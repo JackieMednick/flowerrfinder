@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fortune Flower</title>
+  
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px 20px;
+      background-color: #fdf6f0;
+      background-image: url('background.gif'); 
+      background-size: cover;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+    .content-box {
+      background-color: rgba(255, 255, 255, 0.9);
+      padding: 30px;
+      max-width: 500px;
+      margin: auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    #flowerImage {
+      display: block;
+      margin: 30px auto;
+      max-width: 400px;
+      height: auto;
+      display: none;
+    }
+
+    #fortune {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div class="content-box">
+    <h1>🪷🌺🌸 Fortune Flower 🌸🌺🪷</h1>
+    <input id="nameInput" placeholder="Enter your name" autocomplete="off" />
+    <button id="getFortuneBtn">Find my flower</button>
+    <div id="fortune"></div>
+    <img id="flowerImage" />
+  </div>
+  <script src="./script.js" async defer></script>
+</body>
+</html>

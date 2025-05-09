@@ -1,0 +1,133 @@
+{
+    "A": {
+      "flower": "Aster",
+      "meaning": "wisdom and faith.",
+      "image": "images/A.png"
+    },
+    "B": {
+      "flower": "Blueweed",
+      "meaning": "strength and perseverance.",
+      "image": "images/bw.png"
+    },
+    "C": {
+      "flower": "Clematis",
+      "meaning": "ingenuity, cleverness, and mental beauty.",
+      "image": "images/c.png"
+    },
+    "D": {
+      "flower": "Dahlia",
+      "meaning": "elegance, creativity, positivity, and growth.",
+      "image": "images/d.png"
+    },
+    "E": {
+      "flower": "Edelweiss",
+      "meaning": "purity and courage.",
+      "image": "images/e.png"
+    },
+    "F": {
+      "flower": "Foxglove",
+      "meaning": "riddles, conundrums, and secrets.",
+      "image": "images/f.png"
+    },
+    "G": {
+      "flower": "Gladiolus",
+      "meaning": "strength and integrity.",
+      "image": "images/g.png"
+    },
+    "H": {
+      "flower": "Honeysuckle",
+      "meaning": "happiness, affection, and love.",
+      "image": "images/h.png"
+    },
+    "I": {
+      "flower": "Iris",
+      "meaning": "faith, hope, courage, wisdom, and positive change.",
+      "image": "images/i.png"
+    },
+    "J": {
+      "flower": "Jacob's Ladder",
+      "meaning": "hope and perseverance.",
+      "image": "images/jl.png"
+    },
+    "K": {
+      "flower": "King protea",
+      "meaning": "strength, courage, and resilience.",
+      "image": "images/k.png"
+    },
+    "L": {
+      "flower": "Lavender",
+      "meaning": "purity, peace, calmness, and serenity.",
+      "image": "images/l.png"
+    },
+    "M": {
+      "flower": "Marigold",
+      "meaning": "joy, energy, and good luck.",
+      "image": "images/m.png"
+    },
+    "N": {
+      "flower": "Nolana",
+      "meaning": "spontaneity, freedom, and exploration.",
+      "image": "images/n.png"
+    },
+    "O": {
+      "flower": "Orchid",
+      "meaning": "thoughtfulness and charm.",
+      "image": "images/o.png"
+    },
+    "P": {
+      "flower": "phlox",
+      "meaning": "unity, harmony, and friendship.",
+      "image": "images/ph.png"
+    },
+    "Q": {
+      "flower": "Queen's cup",
+      "meaning": "simplicity and the delicate balance of nature.",
+      "image": "images/q.png"
+    },
+    "R": {
+      "flower": "Rattlesnake",
+      "meaning": "renewal and vitality.",
+      "image": "images/r.png"
+    },
+    "S": {
+      "flower": "Spider flowers",
+      "meaning": "love, death, and rebirth.",
+      "image": "images/s.png"
+    },
+    "T": {
+      "flower": "Tassel flower",
+      "meaning": "beauty and timeless elegance.",
+      "image": "images/t.png"
+    },
+    "U": {
+      "flower": "Ulex",
+      "meaning": "hope and optimism.",
+      "image": "images/u.png"
+    },
+    "V": {
+      "flower": "Verbena",
+      "meaning": "healing and protection.",
+      "image": "images/v.png"
+    },
+    "W": {
+      "flower": "Water lilies",
+      "meaning": "purity, beauty, and enlightenment.",
+      "image": "images/w.png"
+    },
+    "X": {
+      "flower": "xerophyllum",
+      "meaning": "rebirth and a new beginning.",
+      "image": "images/x.png"
+    },
+    "Y": {
+      "flower": "Yarrow",
+      "meaning": "healing, love, and resilience.",
+      "image": "images/y.png"
+    },
+    "Z": {
+      "flower": "zephyranthes",
+      "meaning": "luck and prosperity.",
+      "image": "images/z.png"
+    }
+  }
+  
